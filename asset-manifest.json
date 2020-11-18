@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.61aed7d5.chunk.css",
+    "main.js": "./static/js/main.dfa005eb.chunk.js",
+    "main.js.map": "./static/js/main.dfa005eb.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8b0ae790.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8b0ae790.js.map",
+    "static/js/2.095b7395.chunk.js": "./static/js/2.095b7395.chunk.js",
+    "static/js/2.095b7395.chunk.js.map": "./static/js/2.095b7395.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.a503a4825a684a7904f70acd111cd4b9.js": "./precache-manifest.a503a4825a684a7904f70acd111cd4b9.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.61aed7d5.chunk.css.map": "./static/css/main.61aed7d5.chunk.css.map",
+    "static/js/2.095b7395.chunk.js.LICENSE.txt": "./static/js/2.095b7395.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "./static/media/ProximaNova-Semibold.8feb512e.woff",
+    "static/media/arrow.svg": "./static/media/arrow.68b4e799.svg",
+    "static/media/avatar-big.png": "./static/media/avatar-big.6e56002e.png",
+    "static/media/down.svg": "./static/media/down.7e0eba1f.svg",
+    "static/media/grid.svg": "./static/media/grid.77af777b.svg",
+    "static/media/pen.svg": "./static/media/pen.cf45888c.svg",
+    "static/media/search.svg": "./static/media/search.61286944.svg",
+    "static/media/settings.svg": "./static/media/settings.50a9a1fa.svg",
+    "static/media/sort.svg": "./static/media/sort.3c5fd0c3.svg",
+    "static/media/up.svg": "./static/media/up.306a0c19.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b0ae790.js",
+    "static/js/2.095b7395.chunk.js",
+    "static/css/main.61aed7d5.chunk.css",
+    "static/js/main.dfa005eb.chunk.js"
+  ]
+}
